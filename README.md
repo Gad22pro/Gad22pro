@@ -29,10 +29,10 @@ When I'm not writing code, you'll find me on the pitch playing **football as a c
 ## 🛠️ Tech Stack
 
 ```yaml
-Languages:    PHP · JavaScript · HTML · CSS · SQL
+Languages:    PHP · JavaScript . node · HTML · CSS · SQL
 Databases:    MySQL
 Tools:        Git · GitHub · VS Code
-Interests:    Web Development · Software Engineering
+Interests:    Web Development · Software development
               Database Design · Problem Solving
 Currently:    Leveling up full-stack skills 🚀
 ```
@@ -52,15 +52,15 @@ Currently:    Leveling up full-stack skills 🚀
 
 <div align="center">
 
-![Gad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9)
+![Gad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gad22pro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gad22pro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa)
+![GitHub Streak](https://streak-stats.demolab.com?user=Gad22pro&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa)
 
 </div>
 
-> 💡 **Replace `YOUR_USERNAME`** with your actual GitHub username to activate the stats cards above.
+> 💡 **Replace `Gad22pro`** with your actual GitHub username to activate the stats cards above.
 
 ---
 
@@ -69,9 +69,9 @@ Currently:    Leveling up full-stack skills 🚀
 | Area | Technologies |
 |------|-------------|
 | **Front-end** | HTML5, CSS3, JavaScript (ES6+) |
-| **Back-end** | PHP, MySQL |
+| **Back-end** | PHP, MySQL, node |
 | **Dev Tools** | Git, GitHub, VS Code |
-| **Concepts** | OOP, REST APIs, Database Normalization |
+| **Concepts** | ralavel, REST APIs, Database Normalization |
 | **Soft Skills** | Problem Solving, Continuous Learning, Teamwork |
 
 ---
@@ -93,9 +93,9 @@ Discipline on the pitch, discipline in the code. Both demand **attention to deta
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gad-mbabazi-305896383/)
 [![Twitter/X](https://img.shields.io/badge/Twitter-Follow-1d9bf0?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Say%20Hello-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/u/0/#inbox)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00d4aa?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO)
 
 </div>
